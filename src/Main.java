@@ -21,10 +21,10 @@
 // c) Jogos de alto desempenho
 
 // Questão 8
-// O Java é compilado e interpretado. O código fonte é compilado gerando um bytecode. Depois, a JVM interpreta esse bytecode na hora da execução.
+// O Java é compilado e interpretado. O código fonte é compilado gerando um código bit. Depois, a JVM interpreta esse código bit na hora da execução.
 
 // Questão 9
-// JDK é o kit para o programador criar o sistema (possui compilador). JRE é o ambiente de execução usado apenas para rodar os sistemas já prontos.
+// JDK é o kit para o programador criar o sistema pois possui compilador. JRE é o ambiente de execução usado apenas para rodar os sistemas depois de pronto.
 
 // Questão 10
 import java.util.Scanner;
